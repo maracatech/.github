@@ -1,4 +1,4 @@
-![maracatech](https://github.com/maracatech/.github/images/maracatech_logo.png)
+![maracatech](https://github.com/maracatech/.github/blob/169fcdeb1987e84b548888f0e9fe0d983fae42cb/images/maracatech_logo.png)
 
 ## Navegue com tranquilidade no controle
 
