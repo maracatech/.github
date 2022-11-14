@@ -1,6 +1,6 @@
 ![maracatech](https://github.com/maracatech/.github/blob/169fcdeb1987e84b548888f0e9fe0d983fae42cb/images/maracatech_logo.png)
 
-## Navegue com tranquilidade na gestão
+## Navegue com tranquilidade na gestão de seus custos, ativos e contratos
 
 Ajudamos empresas, independentemente de seus tamanhos, a simplificar a forma de realizar seus controles, trazendo segurança e praticidade na gestão diária.
 
